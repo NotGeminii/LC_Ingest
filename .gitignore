@@ -1,0 +1,12 @@
+# Visual Studio build results
+**/[Bb]in/
+**/[Oo]bj/
+
+# User-specific and IDE files
+*.user
+*.suo
+*.resharper
+.vs/
+
+# SSIS Packages
+*.dtproj.user
